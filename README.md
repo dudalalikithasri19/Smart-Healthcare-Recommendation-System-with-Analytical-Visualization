@@ -26,7 +26,7 @@ Visualization: Matplotlib, Seaborn
 
 Clone the repository
 
-git clone https://github.com/dudalalikithasri19/Smart-Healthcare-Recommendation-System-with-Analytical-Visualization.git
+git clone https://github.com/dudalalikithasri19/Smart-Healthcare-Recommendation-System-with-Analytical-Visualization
 cd Smart-Healthcare-Recommendation-System-with-Analytical-Visualization
 
 
